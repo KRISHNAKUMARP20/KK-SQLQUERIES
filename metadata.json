@@ -1,0 +1,6 @@
+{
+  "name": "KK SQL Academy",
+  "description": "Comprehensive SQL learning, practice playground, quizzes, real-world schemas, and certification platform from Fundamentals to Expert.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
